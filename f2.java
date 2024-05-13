@@ -1,4 +1,3 @@
-eeee
-e
-e
-ee
+class f2{
+  
+}
